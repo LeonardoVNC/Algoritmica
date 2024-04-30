@@ -5,7 +5,7 @@ El silabo es el siguiente:
 - [Arrays de 1D y 2D](Capitulos/SkillsPrograCompetitiva/Arrays/ArreglosYMatrices.java)
 - [Funciones y Procedimientos](Capitulos/SkillsPrograCompetitiva/FuncionesYProcedimientos/FuncionesYProcedimientos.java)
 - [Recursividad](Capitulos/SkillsPrograCompetitiva/Recursividad/Recursividad.java)
-## 2. Analisis de Complejidad
+## 2. Análisis de Complejidad
 - Conteo
 - Ecuaciones de Recurrencia Lineales y No Lineales
 - Teorema Maestro
@@ -24,6 +24,6 @@ El silabo es el siguiente:
 - [BFS](Capitulos/EstructurasDeDatos/BFS/BFS.java): Presentación del Algoritmo BFS para Grafos.
 - Trees
 ## 5. Programación Dinámica
-## 6. Teoria de Grafos
+## 6. Teoría de Grafos
 
 Espero que la información proporcionada en este repositorio sea de ayuda en tu aprendizaje, exitos! 🐢
