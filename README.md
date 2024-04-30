@@ -1,7 +1,7 @@
 # Algorítmica
 Este proyecto se realiza con el fin de ser un apoyo durante el avance de temas en la materia de Algorítmica que se lleva a cabo en el Primer Semestre de la Gestion 2024. Conforme se progrese con la materia se añadirán partes importantes, destancándose el código empleado. 
 El silabo es el siguiente:
-## 1. Skills para la Programación Competítiva
+## 1. Skills para la Programación Competitiva
 - [Arrays de 1D y 2D](Capitulos/SkillsPrograCompetitiva/Arrays/ArreglosYMatrices.java)
 - [Funciones y Procedimientos](Capitulos/SkillsPrograCompetitiva/FuncionesYProcedimientos/FuncionesYProcedimientos.java)
 - [Recursividad](Capitulos/SkillsPrograCompetitiva/Recursividad/Recursividad.java)
